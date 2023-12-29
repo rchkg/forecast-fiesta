@@ -16,6 +16,12 @@
     font-weight: bold;
 }
 
+.description {
+    font-size: 40px;
+    font-weight: bold;
+    color: grey;
+}
+
 .largeFont {
     font-size: 150px;
     font-weight: bold;
@@ -27,4 +33,7 @@
     height: 3rem;
     width: 10rem;
     gap: 2%;
+    right: 30rem;
+    top: 3rem;
+    position: relative;
 }

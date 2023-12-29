@@ -1,0 +1,170 @@
+{
+  "Headline": {
+    "EffectiveDate": "2024-01-01T13:00:00+01:00",
+    "EffectiveEpochDate": 1704110400,
+    "Severity": 5,
+    "Text": "Expect showers Monday afternoon",
+    "Category": "rain",
+    "EndDate": "2024-01-01T19:00:00+01:00",
+    "EndEpochDate": 1704132000,
+    "MobileLink": "http://www.accuweather.com/en/es/madrid/308526/daily-weather-forecast/308526?lang=en-us",
+    "Link": "http://www.accuweather.com/en/es/madrid/308526/daily-weather-forecast/308526?lang=en-us"
+  },
+  "DailyForecasts": [
+    {
+      "Date": "2023-12-27T07:00:00+01:00",
+      "EpochDate": 1703656800,
+      "Temperature": {
+        "Minimum": {
+          "Value": 31,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 52,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 5,
+        "IconPhrase": "Hazy sunshine",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 38,
+        "IconPhrase": "Mostly cloudy",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://www.accuweather.com/en/es/madrid/308526/daily-weather-forecast/308526?lang=en-us",
+      "Link": "http://www.accuweather.com/en/es/madrid/308526/daily-weather-forecast/308526?lang=en-us"
+    },
+    {
+      "Date": "2023-12-28T07:00:00+01:00",
+      "EpochDate": 1703743200,
+      "Temperature": {
+        "Minimum": {
+          "Value": 36,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 49,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 4,
+        "IconPhrase": "Intermittent clouds",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 7,
+        "IconPhrase": "Cloudy",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://www.accuweather.com/en/es/madrid/308526/daily-weather-forecast/308526?day=1&lang=en-us",
+      "Link": "http://www.accuweather.com/en/es/madrid/308526/daily-weather-forecast/308526?day=1&lang=en-us"
+    },
+    {
+      "Date": "2023-12-29T07:00:00+01:00",
+      "EpochDate": 1703829600,
+      "Temperature": {
+        "Minimum": {
+          "Value": 36,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 50,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 7,
+        "IconPhrase": "Cloudy",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 38,
+        "IconPhrase": "Mostly cloudy",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://www.accuweather.com/en/es/madrid/308526/daily-weather-forecast/308526?day=2&lang=en-us",
+      "Link": "http://www.accuweather.com/en/es/madrid/308526/daily-weather-forecast/308526?day=2&lang=en-us"
+    },
+    {
+      "Date": "2023-12-30T07:00:00+01:00",
+      "EpochDate": 1703916000,
+      "Temperature": {
+        "Minimum": {
+          "Value": 39,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 53,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 4,
+        "IconPhrase": "Intermittent clouds",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 36,
+        "IconPhrase": "Intermittent clouds",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://www.accuweather.com/en/es/madrid/308526/daily-weather-forecast/308526?day=3&lang=en-us",
+      "Link": "http://www.accuweather.com/en/es/madrid/308526/daily-weather-forecast/308526?day=3&lang=en-us"
+    },
+    {
+      "Date": "2023-12-31T07:00:00+01:00",
+      "EpochDate": 1704002400,
+      "Temperature": {
+        "Minimum": {
+          "Value": 39,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 51,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 6,
+        "IconPhrase": "Mostly cloudy",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 38,
+        "IconPhrase": "Mostly cloudy",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://www.accuweather.com/en/es/madrid/308526/daily-weather-forecast/308526?day=4&lang=en-us",
+      "Link": "http://www.accuweather.com/en/es/madrid/308526/daily-weather-forecast/308526?day=4&lang=en-us"
+    }
+  ]
+}

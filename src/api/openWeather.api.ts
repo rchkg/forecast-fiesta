@@ -10,10 +10,13 @@ export const openWeatherApi = createApi({
   endpoints: (builder) => ({
     getCurrentConditions: builder.query({
       query: (coordinates: Location) => 
-          `/weather?lat=${coordinates.latitude}&lon=${coordinates.longitude}&appid=${API_KEY}`
+        `/weather?lat=${coordinates.latitude}&lon=${coordinates.longitude}&appid=${API_KEY}`
     }),
-
+    getDetailedFiveDayForecast: builder.query({
+      query: (coordinates: Location) =>
+        `/forecast?lat=${coordinates.latitude}&lon=${coordinates.longitude}&appid=${API_KEY}`
+    })
   }),
 })
 
-export const { useGetCurrentConditionsQuery }  = openWeatherApi
+export const { useGetCurrentConditionsQuery, useGetDetailedFiveDayForecastQuery }  = openWeatherApi
